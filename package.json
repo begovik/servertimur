@@ -1,0 +1,25 @@
+{
+  "name": "servertimur",
+  "version": "1.0.0",
+  "description": "Сервер на NODE.js по урокам Тимура Шесидинова",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begovik/servertimur.git"
+  },
+  "author": "Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/begovik/servertimur/issues"
+  },
+  "homepage": "https://github.com/begovik/servertimur#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  },
+  "dependencies": {
+    "metarhia-common": "^0.0.38"
+  }
+}
